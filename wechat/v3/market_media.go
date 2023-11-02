@@ -6,8 +6,8 @@ import (
 	"fmt"
 	"net/http"
 
-	"github.com/go-pay/gopay"
-	"github.com/go-pay/gopay/pkg/util"
+	"github.com/stone-stones/gopay"
+	"github.com/stone-stones/gopay/pkg/util"
 )
 
 // 图片上传（营销专用）

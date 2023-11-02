@@ -5,9 +5,9 @@ import (
 	"encoding/json"
 	"fmt"
 
-	"github.com/go-pay/gopay"
-	"github.com/go-pay/gopay/pkg/xhttp"
-	"github.com/go-pay/gopay/pkg/xlog"
+	"github.com/stone-stones/gopay"
+	"github.com/stone-stones/gopay/pkg/xhttp"
+	"github.com/stone-stones/gopay/pkg/xlog"
 )
 
 // alipay.trade.customs.declare(统一收单报关接口)

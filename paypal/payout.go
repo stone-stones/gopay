@@ -11,7 +11,7 @@ import (
 	"fmt"
 	"net/http"
 
-	"github.com/go-pay/gopay"
+	"github.com/stone-stones/gopay"
 )
 
 // 创建批量支出（Create batch payout）

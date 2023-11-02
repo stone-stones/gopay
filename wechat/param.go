@@ -15,10 +15,10 @@ import (
 	"os"
 	"strings"
 
-	"github.com/go-pay/gopay"
-	"github.com/go-pay/gopay/pkg/util"
-	"github.com/go-pay/gopay/pkg/xhttp"
-	"github.com/go-pay/gopay/pkg/xlog"
+	"github.com/stone-stones/gopay"
+	"github.com/stone-stones/gopay/pkg/util"
+	"github.com/stone-stones/gopay/pkg/xhttp"
+	"github.com/stone-stones/gopay/pkg/xlog"
 	"golang.org/x/crypto/pkcs12"
 )
 

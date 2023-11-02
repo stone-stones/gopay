@@ -4,9 +4,9 @@ import (
 	"errors"
 	"testing"
 
-	"github.com/go-pay/gopay"
-	"github.com/go-pay/gopay/pkg/util"
-	"github.com/go-pay/gopay/pkg/xlog"
+	"github.com/stone-stones/gopay"
+	"github.com/stone-stones/gopay/pkg/util"
+	"github.com/stone-stones/gopay/pkg/xlog"
 )
 
 // 芝麻企业信用信用评估初始化测试

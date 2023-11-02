@@ -3,9 +3,9 @@ package paypal
 import (
 	"context"
 
-	"github.com/go-pay/gopay"
-	"github.com/go-pay/gopay/pkg/util"
-	"github.com/go-pay/gopay/pkg/xhttp"
+	"github.com/stone-stones/gopay"
+	"github.com/stone-stones/gopay/pkg/util"
+	"github.com/stone-stones/gopay/pkg/xhttp"
 )
 
 // Client PayPal支付客户端

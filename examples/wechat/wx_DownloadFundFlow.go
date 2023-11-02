@@ -1,10 +1,10 @@
 package wechat
 
 import (
-	"github.com/go-pay/gopay"
-	"github.com/go-pay/gopay/pkg/util"
-	"github.com/go-pay/gopay/pkg/xlog"
-	"github.com/go-pay/gopay/wechat"
+	"github.com/stone-stones/gopay"
+	"github.com/stone-stones/gopay/pkg/util"
+	"github.com/stone-stones/gopay/pkg/xlog"
+	"github.com/stone-stones/gopay/wechat"
 )
 
 func DownloadFundFlow() {

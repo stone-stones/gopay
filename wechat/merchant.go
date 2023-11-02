@@ -6,10 +6,10 @@ import (
 	"errors"
 	"fmt"
 
-	"github.com/go-pay/gopay"
-	"github.com/go-pay/gopay/pkg/util"
-	"github.com/go-pay/gopay/pkg/xhttp"
-	"github.com/go-pay/gopay/pkg/xlog"
+	"github.com/stone-stones/gopay"
+	"github.com/stone-stones/gopay/pkg/util"
+	"github.com/stone-stones/gopay/pkg/xhttp"
+	"github.com/stone-stones/gopay/pkg/xlog"
 )
 
 // 企业付款（企业向微信用户个人付款）

@@ -15,15 +15,15 @@ import (
 	"sync"
 	"time"
 
-	"github.com/go-pay/gopay"
-	"github.com/go-pay/gopay/pkg/aes"
-	"github.com/go-pay/gopay/pkg/errgroup"
-	"github.com/go-pay/gopay/pkg/retry"
-	"github.com/go-pay/gopay/pkg/util"
-	"github.com/go-pay/gopay/pkg/xhttp"
-	"github.com/go-pay/gopay/pkg/xlog"
-	"github.com/go-pay/gopay/pkg/xpem"
-	"github.com/go-pay/gopay/pkg/xtime"
+	"github.com/stone-stones/gopay"
+	"github.com/stone-stones/gopay/pkg/aes"
+	"github.com/stone-stones/gopay/pkg/errgroup"
+	"github.com/stone-stones/gopay/pkg/retry"
+	"github.com/stone-stones/gopay/pkg/util"
+	"github.com/stone-stones/gopay/pkg/xhttp"
+	"github.com/stone-stones/gopay/pkg/xlog"
+	"github.com/stone-stones/gopay/pkg/xpem"
+	"github.com/stone-stones/gopay/pkg/xtime"
 )
 
 // 获取平台RSA证书列表（获取后自行保存使用，如需定期刷新功能，自行实现）

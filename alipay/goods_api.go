@@ -5,8 +5,8 @@ import (
 	"encoding/json"
 	"fmt"
 
-	"github.com/go-pay/gopay"
-	"github.com/go-pay/gopay/pkg/util"
+	"github.com/stone-stones/gopay"
+	"github.com/stone-stones/gopay/pkg/util"
 )
 
 // alipay.merchant.item.file.upload(商品文件上传接口)

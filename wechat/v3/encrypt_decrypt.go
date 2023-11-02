@@ -9,10 +9,10 @@ import (
 	"errors"
 	"fmt"
 
-	"github.com/go-pay/gopay"
-	"github.com/go-pay/gopay/pkg/aes"
-	"github.com/go-pay/gopay/pkg/util"
-	"github.com/go-pay/gopay/pkg/xpem"
+	"github.com/stone-stones/gopay"
+	"github.com/stone-stones/gopay/pkg/aes"
+	"github.com/stone-stones/gopay/pkg/util"
+	"github.com/stone-stones/gopay/pkg/xpem"
 )
 
 // 敏感信息加密，默认使用最新的有效微信平台证书加密

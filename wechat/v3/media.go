@@ -9,8 +9,8 @@ import (
 	"net/http"
 	"net/url"
 
-	"github.com/go-pay/gopay"
-	"github.com/go-pay/gopay/pkg/util"
+	"github.com/stone-stones/gopay"
+	"github.com/stone-stones/gopay/pkg/util"
 )
 
 // 图片资源下载

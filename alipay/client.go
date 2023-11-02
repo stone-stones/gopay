@@ -7,13 +7,13 @@ import (
 	"fmt"
 	"time"
 
-	"github.com/go-pay/gopay"
-	"github.com/go-pay/gopay/pkg/aes"
-	"github.com/go-pay/gopay/pkg/util"
-	"github.com/go-pay/gopay/pkg/xhttp"
-	"github.com/go-pay/gopay/pkg/xlog"
-	"github.com/go-pay/gopay/pkg/xpem"
-	"github.com/go-pay/gopay/pkg/xrsa"
+	"github.com/stone-stones/gopay"
+	"github.com/stone-stones/gopay/pkg/aes"
+	"github.com/stone-stones/gopay/pkg/util"
+	"github.com/stone-stones/gopay/pkg/xhttp"
+	"github.com/stone-stones/gopay/pkg/xlog"
+	"github.com/stone-stones/gopay/pkg/xpem"
+	"github.com/stone-stones/gopay/pkg/xrsa"
 )
 
 type Client struct {
